@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 
-BOT_TOKEN = "8715495543:AAHRX3AaKeHjsel01UHSZLZGgdpNDakzFuc"
+BOT_TOKEN = "8715495543:AAHRA8axUsMf0XRRZKCfFE_X0rtLUgZEQ-8"
 ADMIN_IDS = [1098654847] # Replace with your Telegram user ID
 CHANNEL_ID = "1001331429198" # Replace with your channel username
 
