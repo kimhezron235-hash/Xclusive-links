@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import os
 
-BOT_TOKEN = os.environ.get("8715495543:AAHRA8axUsMf0XRRZKCfFE_X0rtLUgZEQ-8")
+BOT_TOKEN = "8715495543:8715495543:AAHRA8axUsMf0XRRZKCfFE_X0rtLUgZEQ-8"
 ADMIN_IDS = [1098654847]
 CHANNEL_ID = "-100133142919"  # note the minus sign for channels
 
